@@ -110,6 +110,7 @@ var radar_data = [
             //{ name: 'Lemming', pc: { r: 160, t: 82 }, movement: 'c' },
             //{ name: 'Hystrix', pc: { r: 150, t: 36 }, movement: 'c' },
             { name: 'Git', pc: { r: 130, t: 73 }, movement: 'c' },
+            { name: 'Teams', pc: { r: 130, t: 73 }, movement: 'c' },
 
             { name: 'Ansible', pc: { r: 280, t: 74 }, movement: 'c' },
             //{ name: 'Hip Chat', pc: { r: 280, t: 78 }, movement: 'c' },
@@ -127,7 +128,7 @@ var radar_data = [
 
             //{ name: 'AppManager ^', pc: { r: 360, t: 82 }, movement: 'c' },
             //{ name: 'Hibernate ^', pc: { r: 380, t: 56 }, movement: 'c' },
-            { name: 'mongoDB', pc: { r: 330, t: 5 }, movement: 'c' },
+            { name: 'Slack', pc: { r: 330, t: 5 }, movement: 'c' },
             //{ name: 'Subversion', pc: { r: 330, t: 18 }, movement: 'c' }
         ]
     },
