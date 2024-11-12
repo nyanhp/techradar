@@ -109,8 +109,8 @@ var radar_data = [
             //{ name: 'Json Web Tokens (JWT)', pc: { r: 180, t: 77 }, movement: 'c' },
             //{ name: 'Lemming', pc: { r: 160, t: 82 }, movement: 'c' },
             //{ name: 'Hystrix', pc: { r: 150, t: 36 }, movement: 'c' },
-            { name: 'Git', pc: { r: 130, t: 73 }, movement: 'c' },
-            { name: 'Teams', pc: { r: 130, t: 73 }, movement: 'c' },
+            { name: 'Git', pc: { r: 80, t: 73 }, movement: 'c' },
+            { name: 'Teams', pc: { r: 80, t: 56 }, movement: 'c' },
 
             { name: 'Ansible', pc: { r: 280, t: 74 }, movement: 'c' },
             //{ name: 'Hip Chat', pc: { r: 280, t: 78 }, movement: 'c' },
@@ -148,10 +148,10 @@ var radar_data = [
             //{ "name": "Google Cloud Data Flow", "pc": { "r": 275, "t": 260 }, "movement": "t" },
             //{ name: 'Postgres as NoSQL', pc: { r: 220, t: 255 }, movement: 'c' },
             //{ "name": "AWS 2014 Innovations", "pc": { "r": 270, "t": 195 }, "movement": "c" },
-            { "name": "Azure", "pc": { "r": 290, "t": 265 }, "movement": "c" },
+            { "name": "Azure", "pc": { "r": 50, "t": 257 }, "movement": "c" },
             //{ name: 'Mesos', pc: { r: 260, t: 265 }, movement: 't' },
             //{ name: 'Marathon', pc: { r: 240, t: 268 }, movement: 't' },
-            { name: 'Kubernetes', pc: { r: 270, t: 236 }, movement: 't' },
+            { name: 'Kubernetes', pc: { r: 30, t: 225 }, movement: 't' },
             //{ "name": "Google App Engine", "pc": { "r": 290, "t": 255 }, "movement": "c" },
             //{ "name": "Google as corporate platform", "pc": { "r": 290, "t": 200 }, "movement": "c" },
 
