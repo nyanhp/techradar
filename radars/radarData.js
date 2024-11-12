@@ -109,7 +109,7 @@ var radar_data = [
             //{ name: 'Json Web Tokens (JWT)', pc: { r: 180, t: 77 }, movement: 'c' },
             //{ name: 'Lemming', pc: { r: 160, t: 82 }, movement: 'c' },
             //{ name: 'Hystrix', pc: { r: 150, t: 36 }, movement: 'c' },
-            { name: 'Git', pc: { r: 80, t: 73 }, movement: 'c' },
+            { name: 'Git', url: "https://git-scm.org", pc: { r: 80, t: 73 }, movement: 'c' },
             { name: 'Teams', pc: { r: 80, t: 56 }, movement: 'c' },
 
             { name: 'Ansible', pc: { r: 280, t: 74 }, movement: 'c' },
